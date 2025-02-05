@@ -8,4 +8,3 @@
 
 📫 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/christeenajose-dev/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=web)](https://yourportfolio.com)  
